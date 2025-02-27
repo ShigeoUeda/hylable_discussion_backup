@@ -12,7 +12,7 @@
 # git cloneの方法
 
 ```sh
-git clone https://github.com/ShigeoUeda/discussion_corpus.git
+git clone https://github.com/ShigeoUeda/hylable_discussion_backup.git
 ```
 
 # git clone後の設定
