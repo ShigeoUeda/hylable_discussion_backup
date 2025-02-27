@@ -20,7 +20,7 @@ git clone https://github.com/ShigeoUeda/hylable_discussion_backup.git
 以下の様にして仮想環境の設定、ライブラリのインストールを行う。
 
 ```sh
-cd discussion_corpus
+cd hylable_discussion_backup
 #仮想環境の設定・有効化
 python -m venv venv
 source ./venv/bin/activate
